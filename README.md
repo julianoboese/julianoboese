@@ -1,4 +1,13 @@
-## Oi, eu sou Juliano Boese, estudante de Desenvolvimento Web!
+## Hi, I'm Juliano Boese, Web Development Student!
+
+- 📚 I’m currently studying at:
+
+<a href="https://www.betrybe.com"><img width="15%" src="./logos/logo-trybe.png"/></a>
+<br><br>
+<a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer"><img width="15%" src="./logos/logo-ctd.png"/></a>
+
+##
+
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=julianoboese&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&langs_count=7&theme=nord"/>
@@ -24,14 +33,7 @@
   ![Snake animation](https://github.com/julianoboese/julianoboese/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
+
