@@ -1,7 +1,7 @@
 ## Oi, eu sou Juliano Boese, estudante de Desenvolvimento Web!
 <div align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=julianoboese&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=julianoboese&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <br>
 <div align="center" style="display: inline_block"><br>
