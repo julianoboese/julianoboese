@@ -1,4 +1,4 @@
-## Hi, I'm Juliano Boese, Web Development Student!
+# 👨‍💻 Hi, I'm Juliano Boese, Web Development Student!
 
 <br>
 <div align="center">
@@ -30,7 +30,7 @@
 
 <br>
 
-- 📚 I’m currently studying at:
+## 📚 I’m currently studying at:
 <div align="center">
   
 <a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a> | <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer"><img width="150rem" src="./logos/logo-ctd.png"/></a>
