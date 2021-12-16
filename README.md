@@ -29,9 +29,12 @@
   ##
 
 <br>
-- 📚 I’m currently studying at:
-<br><br>
 
-<a href="https://www.betrybe.com"><img width="30%" src="./logos/logo-trybe.png"/></a>   | <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer"><img width="30%" src="./logos/logo-ctd.png"/></a>
-:------: | :------:
+- 📚 I’m currently studying at:
+<div align="center">
+  
+<a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a> | <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer"><img width="150rem" src="./logos/logo-ctd.png"/></a>
+:-----: | :------:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=ctd-checkpoints&theme=nord)](https://github.com/julianoboese/ctd-checkpoints)
+  
+</div>
