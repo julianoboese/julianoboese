@@ -25,7 +25,7 @@
   <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=julianoboese&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 </div>
-
+<br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Juliano-Linux" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Juliano-Git" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
