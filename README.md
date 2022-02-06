@@ -15,8 +15,15 @@
 
 <br>
 <div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=julianoboese&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&langs_count=7&theme=nord"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=julianoboese&count_private=true&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&theme=nord" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=julianoboese&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
