@@ -3,7 +3,7 @@
 <h3><strong>Sobre mim</strong></h3>
 
 <div align="left" style="display: inline_block">
-  <li> 🇧🇷 Porto Alegre - RS</li>
+  <li> 🧉 Porto Alegre - RS</li>
   <li> 🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li>
   <li> 📚 Cursando <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer">Certified Tech Developer</a> na <a href="https://www.digitalhouse.com/br">Digital House</a></li>
   <li> 🎸 Meus hobbies são investimentos, música e trilhas</li>
