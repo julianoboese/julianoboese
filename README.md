@@ -5,7 +5,6 @@
 <div align="left" style="display: inline_block">
   <li> 🧉 Porto Alegre - RS</li>
   <li> 🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li>
-  <li> 📚 Cursando <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer">Certified Tech Developer</a> na <a href="https://www.digitalhouse.com/br">Digital House</a></li>
   <li> 🎸 Meus hobbies são investimentos, música e trilhas</li>
   <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
 </div>
@@ -57,8 +56,8 @@
 ## 📚 Projetos de estudo
 <div align="center">
   
-<a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a> | <a href="https://www.digitalhouse.com/br/acoes/certified-tech-developer"><img width="150rem" src="./logos/logo-ctd.png"/></a>
-:-----: | :------:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=ctd-checkpoints&theme=nord)](https://github.com/julianoboese/ctd-checkpoints)
+<a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
+<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
   
 </div>
