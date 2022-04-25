@@ -57,7 +57,7 @@
 ## 📚 Projetos de estudo
 <div align="center">
   
-  <a href="https://julianoboese.github.io" align="center">Meu Portfólio</a> | <a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
+  <a href="https://julianoboese.github.io" align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-web-development-flaticons-lineal-color-flat-icons-2.png"/><br>Meu Portfólio</a> | <a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
 :-----: | :------:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=julianoboese.github.io&theme=nord)](https://github.com/julianoboese/julianoboese.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
   
