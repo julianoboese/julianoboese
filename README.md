@@ -14,14 +14,14 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=julianoboese&count_private=true&show_icons=true&theme=nord" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&theme=nord" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=julianoboese&count_private=true&show_icons=true&theme=nord" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=julianoboese&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=julianoboese&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&theme=nord" />
 </a>
 </div>
 <br>
@@ -33,8 +33,9 @@
   <img align="center" alt="Juliano-Js" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juliano-Jest" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Juliano-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juliano-Redux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Juliano-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Juliano-Redux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Juliano-Docker" height="51" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Juliano-MySQL" height="57" width="76" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
 <div align="center">
@@ -56,8 +57,8 @@
 ## 📚 Projetos de estudo
 <div align="center">
   
-<a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
-<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
+  <a href="https://julianoboese.github.io" align="center">Meu Portfólio</a> | <a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
+:-----: | :------:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=julianoboese.github.io&theme=nord)](https://github.com/julianoboese/julianoboese.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
   
 </div>
