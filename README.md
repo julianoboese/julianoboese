@@ -1,64 +1,51 @@
-# 👨‍💻 Olá, sou o Juliano Boese, estudante de Desenvolvimento Web!
+# 👨‍💻 Hi, I'm Juliano Boese!
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
 
-<h3><strong>Sobre mim</strong></h3>
+<h3><strong>About me</strong></h3>
 
 <div align="left" style="display: inline_block">
-  <li> 🧉 Porto Alegre - RS</li>
-  <li> 🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li>
-  <li> 🎸 Meus hobbies são investimentos, música e trilhas</li>
-  <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
+  <li> 🧪 I'm a chemical engineer switching to a career in IT. I love building user-friendly websites, writing tests and helping people learn how to code.
+  <li> 🧉 Porto Alegre/RS - Brazil</li>
+  <li> 🔭 I'm currently studying at <a href="https://betrybe.com">Trybe</a>, with support from <a href="https://www.xpinc.com/">XP Inc.</a></li>
+  <li> 🎸 I love listening to Prog music and traveling to new places</li>
+  <li> 💬 Ask me about Javascript, React and Node.js</li>
 </div>
 <br>
 
-## 📊 Estatísticas e Tecnologias
+## 💻 Technologies
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Juliano-HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Juliano-CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juliano-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Juliano-Jest" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Juliano-React" height="36" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Juliano-Redux" height="31" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Juliano-Docker" height="41" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Juliano-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+## 📊 Statistics
 
 <br>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=julianoboese&count_private=true&show_icons=true&theme=nord" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" width="380px" src="http://github-readme-streak-stats.herokuapp.com?user=julianoboese&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&theme=nord" />
-</a>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=julianoboese&count_private=true&show_icons=true&theme=nord" />
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoboese&layout=compact&theme=nord" />
 </div>
 <br>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Juliano-Linux" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Juliano-Git" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Juliano-HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juliano-CSS" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juliano-Js" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juliano-Jest" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Juliano-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Juliano-Redux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Juliano-Docker" height="51" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Juliano-MySQL" height="57" width="76" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-<br>
+
 <div align="center">
   
   ![Snake animation](https://github.com/julianoboese/julianoboese/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-<br>
 
-## 💬 Contatos
+## 💬 Contact
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/julianoboese" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/julianoboese" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:juliano.boese@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<br><br>
-
-## 📚 Projetos de estudo
-<div align="center">
-  
-  <a href="https://julianoboese.github.io" align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-web-development-flaticons-lineal-color-flat-icons-2.png"/><br>Meu Portfólio</a> | <a href="https://www.betrybe.com"><img width="150rem" src="./logos/logo-trybe.png"/></a>
-:-----: | :------:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=julianoboese.github.io&theme=nord)](https://github.com/julianoboese/julianoboese.github.io) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianoboese&repo=trybe-exercicios&theme=nord)](https://github.com/julianoboese/trybe-exercicios)
-  
+  <a href="https://github.com/julianoboese" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julianoboese" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:juliano.boese@gmail.com"><img height="28rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
