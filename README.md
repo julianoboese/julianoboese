@@ -1,5 +1,4 @@
-# 👨‍💻 Hi, I'm Juliano Boese!
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
+# 👨‍💻 Hi, I'm Juliano Boese, a Front-End Developer!
 
 <h3><strong>About me</strong></h3>
 
