@@ -24,6 +24,7 @@
   <img align="center" alt="Juliano-Redux" height="31" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Juliano-Docker" height="41" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Juliano-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Juliano-Nodejs" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ## 📊 Statistics
@@ -44,7 +45,7 @@
 ## 💬 Contact
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/julianoboese" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge" target="_blank"></a> 
+  <a href="https://julianoboese.github.io" target="_blank"><img height="28rem" src="https://img.shields.io/badge/my_portfolio-3fc337?style=for-the-badge" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/julianoboese" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:juliano.boese@gmail.com"><img height="28rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
