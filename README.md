@@ -1,13 +1,13 @@
-# 👨‍💻 Hi, I'm Juliano Boese, a Front-End Developer!
+# 👨‍💻 Hi, I'm Juliano Boese, a Full-Stack Developer!
 
 <h3><strong>About me</strong></h3>
 
 <div align="left" style="display: inline_block">
-  <li> 🧪 I'm a chemical engineer switching to a career in IT. I love building user-friendly websites, writing tests and helping people learn how to code.
+  <li> 🧪 I'm a chemical engineer switching to a career in IT. I love building user-friendly web apps, writing tests and helping people learn how to code.
   <li> 🧉 Porto Alegre/RS - Brazil</li>
   <li> 🔭 I'm currently studying at <a href="https://betrybe.com">Trybe</a>, with support from <a href="https://www.xpinc.com/">XP Inc.</a></li>
   <li> 🎸 I love listening to Prog music and traveling to new places</li>
-  <li> 💬 Ask me about Javascript, React and Node.js</li>
+  <li> 💬 Ask me about Javascript, React, TypeScript and Node.js</li>
 </div>
 <br>
 
