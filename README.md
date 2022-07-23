@@ -46,12 +46,16 @@
     <td>
       <img align="center" alt="Juliano-Jest" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
       <img align="center" alt="Juliano-RTL" height="34" width="34" src="https://testing-library.com/img/octopus-128x128.png" />
+      <br>
+      <br>
       <img align="center" alt="Juliano-Mocha" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
       <img align="center" alt="Juliano-Chai" height="36" width="36" src="https://www.chaijs.com/img/chai-logo-small.png" />
     </td>
     <td>
       <img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <br>
+      <br>
       <img align="center" alt="Juliano-Github" height="38" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img align="center" alt="Juliano-Docker" height="41" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     </td>
