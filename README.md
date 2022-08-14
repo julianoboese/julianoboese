@@ -89,7 +89,8 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/julianoboese/julianoboese/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](https://github.com/julianoboese/julianoboese/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake Dark](https://github.com/julianoboese/julianoboese/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
