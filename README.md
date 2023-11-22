@@ -7,7 +7,7 @@
   <li> 🧉 Porto Alegre/RS - Brazil</li>
   <li> 🔭 I'm currently working as a Software Engineer at <a href="https://www.xpinc.com/">XP Inc.</a></li>
   <li> 🎸 I love listening to Prog music and traveling to new places</li>
-  <li> 💬 Ask me about C#, .NET, React, TypeScript and Node.js</li>
+  <li> 💬 Ask me about C#, Python, React, TypeScript and Node.js</li>
 </div>
 <br>
 
@@ -41,7 +41,7 @@
 <div align="center" style="display: inline_block"><br>
 <table>
   <tr>
-    <th colspan="2">Other technologies</th>
+    <th colspan="2">Other Technologies</th>
   </tr>
   <tr>
     <th>Front-End</th>
@@ -53,18 +53,20 @@
       <img align="center" alt="Juliano-CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Juliano-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Juliano-React" height="36" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <br>
+      <br>
       <img align="center" alt="Juliano-Redux" height="31" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-      <br>
-      <br>
-      <img align="center" alt="Juliano-Tailwind" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />         <img align="center" alt="Juliano-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+      <img align="center" alt="Juliano-Tailwind" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
+      <img align="center" alt="Juliano-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
       <img align="center" alt="Juliano-Emotion" width="36" src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" />
     </td>
     <td>
-      <img align="center" alt="Juliano-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+      <img align="center" alt="Juliano-Python" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
       <img align="center" alt="Juliano-Nodejs" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img align="center" alt="Juliano-Ts" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <br>
       <br>
+      <img align="center" alt="Juliano-MySQL" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="Juliano-Sequelize" height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
       <img align="center" alt="Juliano-Prisma" width="32" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" />            
     </td>
