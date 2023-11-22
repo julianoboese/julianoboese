@@ -1,26 +1,51 @@
-# 👨‍💻 Hi, I'm Juliano Boese, a Full-Stack Developer!
+# 👨‍💻 Hi, I'm Juliano Boese, a Software Engineer!
 
 <h3><strong>About me</strong></h3>
 
 <div align="left" style="display: inline_block">
-  <li> 🧪 I'm a chemical engineer switching to a career in IT. I love building user-friendly web apps, writing tests and helping people learn how to code.
+  <li> 🧪 I'm a chemical engineer who switched to IT. I love building user-friendly web apps, writing tests and helping people learn how to code.
   <li> 🧉 Porto Alegre/RS - Brazil</li>
-  <li> 🔭 I'm currently studying at <a href="https://betrybe.com">Trybe</a>, with support from <a href="https://www.xpinc.com/">XP Inc.</a></li>
+  <li> 🔭 I'm currently working as a Software Engineer at <a href="https://www.xpinc.com/">XP Inc.</a></li>
   <li> 🎸 I love listening to Prog music and traveling to new places</li>
-  <li> 💬 Ask me about Javascript, React, TypeScript and Node.js</li>
+  <li> 💬 Ask me about C#, .NET, React, TypeScript and Node.js</li>
 </div>
 <br>
 
 ## 💻 Technologies
 
-<div align="center" style="display: inline_block"><br>
-
+<div align="center" style="display: inline_block">
 <table>
+  <tr>
+    <th>Main Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" alt="Juliano-Csharp" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Juliano-Dotnet" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+      <img align="center" alt="Juliano-DotnetCore" height="40" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+      <img align="center" alt="Juliano-SqlServer" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+      <img align="center" alt="Juliano-MongoDb" height="50" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+      <img align="center" alt="Juliano-RabbitMq" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
+      <img align="center" alt="Juliano-Grpc" width="86" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" />
+      <br>
+      <br>
+      <img align="center" alt="Juliano-Azure" height="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+      <img align="center" alt="Juliano-Docker" height="41" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      <img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+<table>
+  <tr>
+    <th colspan="2">Other technologies</th>
+  </tr>
   <tr>
     <th>Front-End</th>
     <th>Back-End</th>
-    <th>Testing</th>
-    <th>DevOps</th>
   </tr>
   <tr>
     <td>
@@ -42,22 +67,6 @@
       <br>
       <img align="center" alt="Juliano-Sequelize" height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
       <img align="center" alt="Juliano-Prisma" width="32" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" />            
-    </td>
-    <td>
-      <img align="center" alt="Juliano-Jest" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-      <img align="center" alt="Juliano-RTL" height="34" width="34" src="https://testing-library.com/img/octopus-128x128.png" />
-      <br>
-      <br>
-      <img align="center" alt="Juliano-Mocha" height="34" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-      <img align="center" alt="Juliano-Chai" height="36" width="36" src="https://www.chaijs.com/img/chai-logo-small.png" />
-    </td>
-    <td>
-      <img align="center" alt="Juliano-Linux" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img align="center" alt="Juliano-Git" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <br>
-      <br>
-      <img align="center" alt="Juliano-Github" height="38" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img align="center" alt="Juliano-Docker" height="41" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     </td>
   </tr>
 </table>
